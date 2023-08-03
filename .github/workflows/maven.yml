@@ -15,7 +15,7 @@ on:
     branches: [ "main" ]
 
 jobs:
-  build:
+  PullAndBuild:
 
     runs-on: ubuntu-latest
 
